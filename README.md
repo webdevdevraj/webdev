@@ -1,2 +1,2 @@
 # webdev
-Tring new!
+Trying new!
