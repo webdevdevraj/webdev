@@ -1,5 +1,5 @@
 <?php
-require_once '/path/to/recaptcha/src/autoload.php';
+require_once 'autoload.php';
  
 define("RECAPTCHA_V3_SECRET_KEY", '6LeOO3McAAAAAI6GB3EeQJAC_j2A1r3YFm-uAWL-');
   
